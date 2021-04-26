@@ -1,0 +1,28 @@
+﻿.Language=English,English
+
+"Binary Converter"
+
+"Choose Type:"
+"Choose Fromat:"
+"Nums per line:"
+"Output file suffix:"
+
+"The number of elements cannot be zero."
+"The suffix cannot be empty."
+"Unknown Error."
+
+"Converting..."
+
+"Byte"
+"Short"
+"Integer"
+"Long"
+
+"Float"
+"Double" 
+ 
+"Signed"
+"Unsigned"
+
+"Go"
+"Abort"

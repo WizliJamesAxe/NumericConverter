@@ -1,0 +1,8 @@
+#include "farversion.hpp"
+
+#define PLUGIN_BUILD 1
+#define PLUGIN_DESC L"Binary Numeric Converter Plugin for Far Manager"
+#define PLUGIN_NAME L"NumericConverter"
+#define PLUGIN_FILENAME L"NumericConverter.dll"
+#define PLUGIN_AUTHOR L"NSTU FAMI 2020"
+#define PLUGIN_VERSION MAKEFARVERSION(FARMANAGERVERSION_MAJOR,FARMANAGERVERSION_MINOR,FARMANAGERVERSION_REVISION,PLUGIN_BUILD,VS_RELEASE)
